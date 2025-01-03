@@ -10,7 +10,7 @@ A simple Flutter application to manage student information with a form to add ne
 
 ## Screens
 
-### 1. Home Screen (Main)
+### 1. Home Screen (Main and Page1)
 - Contains a form to add student information.
 - Form fields:
   - Name
@@ -24,7 +24,7 @@ A simple Flutter application to manage student information with a form to add ne
 - Each ListTile shows the student's name and is styled with a light background color and rounded corners.
 - Tapping on a student's ListTile navigates to the detail screen.
 
-### 3. Student Detail Screen (Page4)
+### 3. Student Detail Screen (Page3)
 - Displays detailed information about the selected student:
   - Name
   - Age
@@ -38,7 +38,7 @@ A simple Flutter application to manage student information with a form to add ne
 1. Ensure you have Flutter installed. 
 2. Clone this repository:
 
-   - git clone <repository-url>
+   - git clone (repository-url)
 
 3. Navigate to the project directory:
 
@@ -46,7 +46,7 @@ A simple Flutter application to manage student information with a form to add ne
 
 4. Run the app:
 
-   - flutter run <directory>
+   - flutter run (directory)
 
 
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:test/screens/page4.dart';
+import 'package:test/screens/page3.dart';
 
 class Page2 extends StatelessWidget {
   final List<Map<String, String>> students;
@@ -33,7 +33,7 @@ class Page2 extends StatelessWidget {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => Page4(
+                          builder: (context) => Page3(
                             student: students[index],
                           ),
                         ),

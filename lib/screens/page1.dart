@@ -46,7 +46,7 @@ class AddStudentFormState extends State<AddStudentForm> {
             },
             validator: (value) {
               if (value == null || value.isEmpty) {
-                return 'Please enter a name';
+                return 'Please enter your name';
               }
               return null;
             },
@@ -59,7 +59,7 @@ class AddStudentFormState extends State<AddStudentForm> {
             },
             validator: (value) {
               if (value == null || value.isEmpty) {
-                return 'Please enter an age';
+                return 'Please enter your age';
               }
               return null;
             },
@@ -71,7 +71,7 @@ class AddStudentFormState extends State<AddStudentForm> {
             },
             validator: (value) {
               if (value == null || value.isEmpty) {
-                return 'Please enter a section';
+                return 'Please enter your section';
               }
               return null;
             },
@@ -83,7 +83,7 @@ class AddStudentFormState extends State<AddStudentForm> {
             },
             validator: (value) {
               if (value == null || value.isEmpty) {
-                return 'Please enter a semester';
+                return 'Please enter your semester';
               }
               return null;
             },
