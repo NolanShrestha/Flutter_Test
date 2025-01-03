@@ -17,8 +17,8 @@ A simple Flutter application to manage student information with a form to add ne
   - Age
   - Section
   - Semester
-- Upon submission, the data is added to the list and can be viewed on the "Students" screen.
-
+- Upon submission, the data is added to the list and can be viewed on the "Students" screen and a message is displayed using  SnackBar. 
+ 
 ### 2. Student List Screen (Page2)
 - Displays a list of all added students using ListTile widget.
 - Each ListTile shows the student's name and is styled with a light background color and rounded corners.
@@ -47,6 +47,8 @@ A simple Flutter application to manage student information with a form to add ne
 4. Run the app:
 
    - flutter run (directory)
+
+
 
 
 

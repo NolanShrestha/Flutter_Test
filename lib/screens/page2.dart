@@ -25,7 +25,7 @@ class Page2 extends StatelessWidget {
                       style: const TextStyle(fontWeight: FontWeight.bold),
                     ),
                     trailing:
-                        const Icon(Icons.arrow_forward, color: Colors.blue),
+                        const Icon(Icons.person_pin_sharp, color: Colors.blue),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(10.0),
                     ),
