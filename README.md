@@ -51,7 +51,7 @@ A simple Flutter application to manage student information with a form to add ne
 ## Demo Video
 Watch the demo video of the Student Information System application:
 
-[Watch the demo video](assets/TestRecording.mp4)
+[Watch the demo video](assets/TestRecording-2.mp4)
 
 
 
