@@ -48,6 +48,12 @@ A simple Flutter application to manage student information with a form to add ne
 
    - flutter run (directory)
 
+## Demo Video
+Watch the demo video of the Student Information System application:
+
+[Watch the demo video](assets/TestRecording.mov)
+
+
 
 
 
