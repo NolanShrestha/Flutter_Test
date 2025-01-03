@@ -51,10 +51,18 @@ A simple Flutter application to manage student information with a form to add ne
 ## Demo Video
 Watch the demo video of the Student Information System application:
 
-[Watch the demo video]
-<!-- (assets/TestRecording-2.mp4) -->
+<!-- [Watch the demo video](assets/TestRecording-2.mp4) -->
 
-<video width="600" controls> <source src="https://raw.githubusercontent.com/NolanShrestha/Flutter_Test/main/assets/TestRecording-2.mp4" type="video/mp4"> Your browser does not support the video tag. </video> 
+## Demo Video
+Watch the demo video of the Student Information System application:
+
+<video width="600" controls>
+    <source src="https://your-github-pages-url/TestRecording-2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
+
 
 
 
