@@ -46,7 +46,7 @@ A simple Flutter application to manage student information with a form to add ne
 
 4. Run the app:
 
-   - flutter run 
+   - flutter run <directory>
 
 
 
